@@ -1,0 +1,6 @@
+{
+  "name": "ZenithAnime - Ultra Pro Anime Streaming Platform",
+  "description": "Premium dark anime streaming experience featuring trending anime, multi-episode player, watchlist, reviews, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
